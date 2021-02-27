@@ -1,6 +1,6 @@
 [version]
 1.000
 [download]
-
+https://github.com/gobotku0/API/raw/main/m/1.zip
 [note]
 first
